@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Design preview for the QR code component coding challenge - desktop](./design/qr-component-desktop%20copy.jpg)
-![Design preview for the QR code component coding challenge - mobile](./design/qr-component-mobile%20copy.jpg)
+![Design preview for the QR code component coding challenge - desktop](./design/qr-component-desktop.jpg)
+![Design preview for the QR code component coding challenge - mobile](./design/mobile-design.jpg)
 
 ### Links
 
